@@ -1,0 +1,245 @@
+#headername{
+    font-size:36px;
+    float:left;
+    display:inline;
+
+}
+
+#headertext{
+    float:right;
+    display:inline;
+    font-size:36px;
+}
+
+#header{
+    width:930px;
+    background-color:#F5F5DC;
+    vertical-align:middle;
+    padding:20px;
+    display:inline-block;
+    color:black;
+    font-weight: bold;
+    border-bottom-width:1px;
+    border-bottom-color:black;
+    border-bottom-style:solid;
+
+}
+
+#content{
+    background-color:#E5E4D7;
+    width:930px;
+    height:980px;
+    padding:20px;
+    display:inline-block;
+
+}
+
+#aboutMe{
+    margin-top:20px;
+    padding-right:-5px;
+}
+
+#aboutmetxt{
+    height:255px;
+    width:450px;
+    float:right;
+    background-color:#FFCF79;
+    padding:15px;
+    color:black;
+    border-bottom-width:1px;
+    border-bottom-color:black;
+    border-bottom-style:solid;
+
+}
+#myphoto{
+    float:left;
+    border-width:3px;
+    height:280px;
+    border-style:solid;
+    border-color:#FFCF79;
+    display:block;
+
+}
+
+img{
+    max-width:100%;
+    max-height:100%;
+}
+
+.contentheader{
+    background: linear-gradient(180deg, #ffe8c6, #ffffff);
+    padding:10px;
+    padding-right:20px;
+    margin-left:-15px;
+    margin-top:-15px;
+    width:100%;
+    color:black;
+    font-size:26px;
+    font-weight:bold;
+    border-top-width:1px;
+    border-bottom-width:1px;
+    border-top-color:black;
+    border-bottom-color:black;
+    border-top-style:solid;
+    border-bottom-style:solid;
+}
+
+#bottom{
+    margin-top:20px;
+    display:inline-block;
+    vertical-align:top;
+}
+#bottomcontent1{
+    width:275px;
+    height: 400px;
+    background-color:#FFCF79;
+    color:black;
+    display:inline-block;
+    margin-right:20px;
+    float:left;
+    padding:10px;
+    vertical-align:top;
+
+}
+#bottomcontent2{
+    width:275px;
+    height: 400px;
+    background-color:#FFCF79;
+    color:black;
+    display:inline-block;
+    margin-right:20px;
+    padding:10px;
+    vertical-align:top;
+
+}
+#bottomcontent3{
+    width:275px;
+    height: 400px;
+    background-color:#FFCF79;
+    color:black;
+    display:inline-block;
+    padding:10px;
+    vertical-align:top;
+}
+
+.bottomheader{
+    background: linear-gradient(180deg, #ffe8c6, #ffffff);
+    padding:10px;
+    margin-top:-10px;
+    margin-left:-10px;
+    width:100%;
+    color:black;
+    font-size:26px;
+    font-weight:bold;
+    border-top-width:1px;
+    border-bottom-width:1px;
+    border-top-color:black;
+    border-bottom-color:black;
+    border-top-style:solid;
+    border-bottom-style:solid;
+    
+}
+
+#bottom-part1{
+    width:275px;
+    height: 220px;
+    background-color:#FFCF79;
+    color:black;
+    display:inline-block;
+    padding:10px;
+    margin-left:-10px;
+
+
+}
+
+#bottom-part2{
+    width:275px;
+    height: 220px;
+    background-color:#FFCF79;
+    color:black;
+    display:inline-block;
+    padding:10px;
+    margin-left:-10px;
+
+
+
+
+}
+
+#bottom-part3{
+    width:275px;
+    height: 220px;
+    background-color:#FFCF79;
+    color:black;
+    display:inline-block;
+    padding:10px;
+    margin-left:-10px;
+}
+
+.bottom-pic{
+    max-width:none;
+    width:295px;
+    margin-left:-10px;
+}
+
+#bottom2{
+
+
+}
+
+.parheight{
+    height:160px;
+}
+
+.icon{
+    margin-top:5px;
+    width:50px;
+
+}
+
+.button{
+    display:block;
+    width:100px;
+    height:40px;
+    margin-left:90px;
+    margin-top:10px;
+    background-color: white;
+    border-style:solid;
+    border-width:2px;
+    border-color:black;
+    border-radius:5px;
+    box-shadow:10px 10px 5px black;
+    font-weight:bold;
+
+}
+
+a{
+    text-decoration:none;
+}
+
+#footer{
+    width:930px;
+    background-color:#F5F5DC;
+    vertical-align:middle;
+    padding-left:20px;
+    padding-right:20px;
+    display:inline-block;
+    color:black;
+    font-weight: bold;
+    border-top-width:1px;
+    border-bottom-width:1px;
+    border-top-color:black;
+    border-bottom-color:black;
+    border-top-style:solid;
+    border-bottom-style:solid;
+    text-align:center;
+}
+
+.footericon{
+    width:20px;
+}
+
+p a{
+    color:black;
+    text-decoration:underline;
+}
